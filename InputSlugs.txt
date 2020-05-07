@@ -1,0 +1,28 @@
+Left hemisphere
+Right hemisphere
+medial-longitudinal-fissure-1
+frontal-lobe-8
+superior-frontal-gyrus-3
+superior-frontal-sulcus-1
+middle-frontal-gyrus-1
+inferior-frontal-sulcus-1
+inferior-frontal-gyrus-1
+Central lobe
+precentral-sulcus-2
+precentral-gyrus-5
+parietal-lobe-6
+postcentral-gyrus-6
+postcentral-sulcus
+superior-parietal-lobule-1
+intraparietal-sulcus-1
+inferior-parietal-lobule
+supramarginal-gyrus-1
+angular-gyrus-1
+lateral-sulcus-1
+parietooccipital-sulcus-4
+occipital-lobe-8
+Pre-occipital notch
+calcarine-sulcus-5
+middle-frontal-gyrus-1
+inferior-frontal-sulcus-1
+intraparietal-sulcus-1
